@@ -1,0 +1,18 @@
+.search {
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 250px;
+  margin-left: 40%;
+  margin-top: 16px;
+}
+
+.search-field {
+  padding: 8px 14px;
+  outline: none;
+  border: none;
+  border-radius: 6px;
+  width: 230px;
+}

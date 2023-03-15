@@ -1,0 +1,24 @@
+.base {
+  display: flex;
+  justify-content: space-around;
+}
+
+.view-btn {
+  border: 1px solid var(--view-btn-color);
+  border-radius: 29px;
+  width: 85px;
+  height: 25px;
+  font-size: 14px;
+  text-align: center;
+  color: var(--view-btn-color);
+}
+
+.remove-btn {
+  border: 1px solid var(--remove-btn-color);
+  border-radius: 29px;
+  width: 85px;
+  height: 25px;
+  font-size: 14px;
+  text-align: center;
+  color: var(--remove-btn-color);
+}

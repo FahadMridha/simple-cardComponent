@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+  margin-left: 16px;
+  margin-top: 12px;
+}
+
+.manual {
+  color: var(--manual-origin-text);
+}
+
+.automated {
+  color: var(--automated-origin-text);
+}
+
+.icon {
+  height: 16px;
+  width: 16px;
+}

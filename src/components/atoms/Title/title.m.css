@@ -1,0 +1,6 @@
+.title {
+  font-size: 18px;
+  color: var(--card-title-text);
+  margin-top: 20px;
+  margin-left: 15px;
+}
